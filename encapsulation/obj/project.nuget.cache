@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+lUgF3JA4vQV1OilOpYG3rnhu5WcdAu0HMU9Wu5utUWy9B2lY4co79fb482OtsX/lg1L1CJp88B7a7TcagZ5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\encapsulation\\encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
